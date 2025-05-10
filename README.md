@@ -4,9 +4,15 @@
 
 ### The structure of the dataset:
 
+Fashion-Product_Dataset
+
 - details.zip（商品详情）
+
 - reviews_1.zip（商品评论1）
+
 - reviews_2.zip（商品评论2）
+
+  
 
 Due to the restriction of the file size in Github, we divided the `reviews` dataset into two separate parts. You can put them together in a single file after you downloaded and unzipped them.
 
