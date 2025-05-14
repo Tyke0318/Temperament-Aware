@@ -83,3 +83,4 @@ column_names = ["评论详情", "详情"]  # 分别对应两个文件夹中的�
 texts, labels = load_data(folder_paths, column_names)
 ```
 
+By Tyke 2025.05.14
